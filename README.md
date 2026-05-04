@@ -45,7 +45,8 @@
 
 ## 🚀 Installation & Getting Started
 
-1. **Clone the repository / Download the source code**
+1. **Visit Release and get the latest version(Beta only available on Windows)**
+1.1 **Clone the repository / Download the source code**
 2. **Install requirements:**
    ```bash
    pip install -r requirements.txt
