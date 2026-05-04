@@ -45,7 +45,7 @@
 
 ## 🚀 Installation & Getting Started
 
-1. **Visit Release and get the latest version(Beta only available on Windows) and run it.**
+1. **Visit [Release](https://github.com/pixcapsoft/devsync/releases/latest) and get the latest version(Beta only available on Windows) and run it.**
 
 ### Build from source
 
